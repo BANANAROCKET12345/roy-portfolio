@@ -10,6 +10,8 @@ export const personalInfo = {
   location: "Kajang, Selangor, Malaysia",
   status: "Open to Work (Software Engineer)",
   resumeUrl: "/Roy_Yang_Resume.pdf",
+  linkedinUrl: "https://www.linkedin.com/in/淞-思-52b2883a5",
+  githubUrl: "https://github.com/BANANAROCKET12345",
   about: "I'm a software engineer who builds web applications with Python and Django. I work with AI models like YOLO and RAG, turning them into practical tools that actually solve problems. My focus is on making technology work in the real world, not just on paper."
 };
 
@@ -83,7 +85,8 @@ export const projectsData = [
     hoverBorder: "hover:border-red-300",
     hoverShadow: "hover:shadow-red-500/10",
     tagColor: "bg-red-50 text-red-700 border-red-100",
-    image: "/coal-fire.jpg"
+    image: "/coal-fire.jpg",
+    githubUrl: "https://github.com/BANANAROCKET12345"
   },
   {
     title: "Image Anti-Counterfeiting",
@@ -94,7 +97,8 @@ export const projectsData = [
     hoverBorder: "hover:border-blue-300",
     hoverShadow: "hover:shadow-blue-500/10",
     tagColor: "bg-blue-50 text-blue-700 border-blue-100",
-    image: "/anti-counterfeit.jpg"
+    image: "/anti-counterfeit.jpg",
+    githubUrl: "https://github.com/BANANAROCKET12345"
   },
   {
     title: "Robotic Arm Grabbing (2025)",
@@ -105,6 +109,7 @@ export const projectsData = [
     hoverBorder: "hover:border-purple-300",
     hoverShadow: "hover:shadow-purple-500/10",
     tagColor: "bg-purple-50 text-purple-700 border-purple-100",
-    image: "/robotic-arm.jpg"
+    image: "/robotic-arm.jpg",
+    githubUrl: "https://github.com/BANANAROCKET12345"
   }
 ];
