@@ -4,6 +4,8 @@
 
 > 🌐 **Live Demo**: [https://royyang.netlify.app](https://royyang.netlify.app)
 
+> 📁 **GitHub Repo**: [https://github.com/BANANAROCKET12345/roy-portfolio](https://github.com/BANANAROCKET12345/roy-portfolio)
+
 > **[English Version](#english)** | **[中文版本](#chinese)**
 
 ---
@@ -13,7 +15,7 @@
 
 ### 📌 Project Overview
 This is my personal portfolio website built with React.
-It showcases my resume, AI & Cloud projects, work experience, and education background. I use it for job applications and to show what I can build.
+It showcases my resume, AI projects, work experience, and education background. I use it for job applications and to show what I can build.
 
 **Tech Stack:**
 - **React** (Vite)
@@ -79,6 +81,7 @@ src/
     - [x] **Projects**: Real screenshots implemented (Coal Fire, Anti-Counterfeiting, Robotic Arm).
     - [x] **Skills**: Refactored to vertical layout & synchronized with resume text.
 - [x] **UX Enhancements**: Scroll-to-Top button, Custom Favicon ("R"), Hover effects.
+- [x] **Preview Screenshot**: `preview.png` added for GitHub README display.
 
 ---
 
@@ -104,9 +107,11 @@ No complex coding required! Just open `src/data/index.js`:
 
 > 🌐 **在线演示**: [https://royyang.netlify.app](https://royyang.netlify.app)
 
+> 📁 **GitHub 仓库**: [https://github.com/BANANAROCKET12345/roy-portfolio](https://github.com/BANANAROCKET12345/roy-portfolio)
+
 ### 📌 项目简介
 这是我用 React 做的个人作品集网站。
-主要展示我的简历、AI 和云计算项目、工作经验和教育背景，用来找工作和展示我会做什么。
+主要展示我的简历、AI 项目、工作经验和教育背景，用来找工作和展示我会做什么。
 
 **技术栈：**
 - **React** (Vite)
@@ -169,6 +174,7 @@ src/
     - [x] **Projects**: 3个项目均已实装真实截图。
     - [x] **Skills**: 技能列表已改为垂直布局，并与简历原文同步。
 - [x] **交互增强**：回到顶部按钮、自定义 Favicon、平滑滚动。
+- [x] **预览截图**：已添加 `preview.png`，GitHub README 可直接显示网站预览图。
 
 ---
 
