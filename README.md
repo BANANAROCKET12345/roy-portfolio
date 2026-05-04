@@ -81,6 +81,7 @@ src/
     - [x] **Projects**: Real screenshots implemented (Coal Fire, Anti-Counterfeiting, Robotic Arm).
     - [x] **Skills**: Refactored to vertical layout & synchronized with resume text.
 - [x] **UX Enhancements**: Scroll-to-Top button, Custom Favicon ("R"), Hover effects.
+- [x] **Social Integrations**: Added GitHub links to Projects and LinkedIn/GitHub buttons to Contact section.
 - [x] **Preview Screenshot**: `preview.png` added for GitHub README display.
 
 ---
@@ -174,6 +175,7 @@ src/
     - [x] **Projects**: 3个项目均已实装真实截图。
     - [x] **Skills**: 技能列表已改为垂直布局，并与简历原文同步。
 - [x] **交互增强**：回到顶部按钮、自定义 Favicon、平滑滚动。
+- [x] **社交外链**：在项目展示区新增了 GitHub 源码链接，在联系方式区新增了 LinkedIn 和 GitHub 快捷按钮。
 - [x] **预览截图**：已添加 `preview.png`，GitHub README 可直接显示网站预览图。
 
 ---
